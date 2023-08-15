@@ -43,7 +43,7 @@ Having a curated list of essential sites for developers offers significant benef
 
 6. [Jsmastery](http://www.jsmastery.pro/)
 
-  JSMastery.pro is a dedicated online platform designed to elevate developers' JavaScript expertise. Through in-depth tutorials, courses, and practical resources, it empowers learners to excel in this versatile programming language. With hands-on projects and real-world examples, it offers a specialized and comprehensive learning experience for individuals at all skill levels, fostering JavaScript excellence for modern web development and beyond.
+   JSMastery.pro is a dedicated online platform designed to elevate developers' JavaScript expertise. Through in-depth tutorials, courses, and practical resources, it empowers learners to excel in this versatile programming language. With hands-on projects and real-world examples, it offers a specialized and comprehensive learning experience for individuals at all skill levels, fostering JavaScript excellence for modern web development and beyond.
   
 7. [react.dev](https://react.dev/)
 
