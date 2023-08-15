@@ -51,7 +51,7 @@ Having a curated list of essential sites for developers offers significant benef
 
 ### B. Visual Studio Code Extensions
 
-1. [HTML CSS Support]()
+1. HTML CSS Support
 
    HTML CSS Support enhances web development by providing autocomplete, syntax highlighting, and error checking for HTML and CSS, streamlining coding efficiency and accuracy.
 
@@ -114,7 +114,7 @@ Having a curated list of essential sites for developers offers significant benef
 3. [stackblitz.com](http://stackblitz.com/)
 4. [jsfiddle.net](http://jsfiddle.net/)
 
-### E. UI Library
+### D. UI Library
 
 1. [Bootstrap](https://getbootstrap.com/)
 2. [Ant Design](https://ant.design/)
@@ -122,14 +122,14 @@ Having a curated list of essential sites for developers offers significant benef
 4. [Chakra-Ui](https://chakra-ui.com/)
 5. [Tailwindcss](https://tailwindcss.com/)
 
-### J. Image & Icons
+### E. Image & Icons
 
 1. [unsplash.com](https://unsplash.com/)
 2. [pixabay.com](https://pixabay.com/)
 3. [freepik.com](https://www.freepik.com/)
 4. [iconscout.com](https://iconscout.com/)
 
-### K. APIs
+### F. APIs
 
 1. [RapidApi](https://rapidapi.com/)
 
@@ -145,23 +145,32 @@ Having a curated list of essential sites for developers offers significant benef
 2. [loading.io](https://loading.io/css/)
 3. [cssloaders.github.io](https://cssloaders.github.io/)
 
-### H. Tools
+### F. Tools
 
-1. [Figma](https://www.figma.com/)
+1. [Postman](https://www.postman.com/)
+
+   Postman is a leading API development and testing tool. With a user-friendly interface, it simplifies API creation, testing, and documentation. Offering features like automated testing, real-time collaboration, and request monitoring, Postman streamlines development workflows and ensures API reliability across the software development lifecycle.
+
+2. [Figma](https://www.figma.com/)
 
    Figma is a collaborative design platform enabling teams to create, prototype, and share UI/UX designs seamlessly. With real-time collaboration, versatile design tools, and cloud-based accessibility, Figma streamlines design workflows, fostering collaboration, and accelerating the creation of visually stunning and interactive digital experiences.
 
-2. [imageresizer.com](https://imageresizer.com/)
+3. [GTmatrix](https://gtmetrix.com)
+
+   GTmetrix.com is a web performance analysis tool that evaluates page speed, identifying optimization opportunities. It offers insights into site performance, helping users enhance user experience and optimize their websites.
+
+4. [imageresizer.com](https://imageresizer.com/)
 
    Imageresizer offers a simple online tool for resizing images quickly. Ideal for optimizing images for web usage while maintaining quality.
 
-3. [reduceimages.com](https://www.reduceimages.com/)
+5. [reduceimages.com](https://www.reduceimages.com/)
 
    ReduceImages offers an efficient online solution for image compression. Easily minimize image file sizes while retaining quality, perfect for optimizing web performance.
 
-4. [ilovepdf.com](https://www.ilovepdf.com/)
+6. [ilovepdf.com](https://www.ilovepdf.com/)
 
    Ilovepdf provides a versatile online toolkit for PDF management. Merge, split, compress, convert, and edit PDFs, simplifying document tasks and enhancing productivity.
+
 
 ### L. Extensions
 
