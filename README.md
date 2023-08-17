@@ -139,6 +139,10 @@ Having a curated list of essential sites for developers offers significant benef
 
    JSONPlaceholder provides a mock REST API for developers to experiment with HTTP requests and responses. It's a valuable tool for testing and prototyping, offering placeholder data for practicing API interactions.
 
+3. [Fake Store](https://fakestoreapi.com/)
+
+   Fake store rest API for your e-commerce or shopping website prototype
+
 ### G. CSS Loader Generator
 
 1. [cssportal.com/css-loader-generator](https://www.cssportal.com/css-loader-generator/)
